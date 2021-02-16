@@ -12,4 +12,8 @@
     <PackageReference Include="Syncfusion.Tools.Windows" Version="18.4.0.43" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Picture\" />
+  </ItemGroup>
+
 </Project>
