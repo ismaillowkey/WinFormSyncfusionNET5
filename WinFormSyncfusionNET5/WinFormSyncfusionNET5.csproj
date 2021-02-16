@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Syncfusion.Core.WinForms" Version="18.4.0.43" />
+    <PackageReference Include="Syncfusion.SfBarcode.Windows" Version="18.4.0.43" />
+    <PackageReference Include="Syncfusion.Tools.Windows" Version="18.4.0.43" />
+  </ItemGroup>
+
+</Project>
